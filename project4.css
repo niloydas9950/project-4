@@ -1,0 +1,575 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Edu+TAS+Beginner:wght@500;600&family=Poppins:wght@400;500;700&family=Roboto&display=swap');
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'DM Sans', sans-serif;
+font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.prants{
+    width: 100%;
+height: 850px;
+background-color:#F6F3EB ;
+margin: 20px;
+}
+
+.maindiv{
+   display: flex;
+   justify-content: space-between;
+   text-align: center;
+}
+.H1{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+}
+
+.all{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    gap: 40px;
+    font-size: 25px;
+    font-weight: 700;
+    color:#0A8270 ;
+    margin-top: 60px;
+
+    
+}
+
+.button1{
+    width: 110px;
+height: 50px;
+flex-shrink: 0;
+background: #0A8270;
+
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+margin-right: 30px;
+
+
+}
+
+
+
+.maindiv1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30px;
+}
+
+.H2{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 70px;
+font-style: normal;
+font-weight: 700;
+
+}
+.p1{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+
+}
+.picdiv{
+    margin-top: 90px;
+    margin-right: 90px;
+}
+
+.pic1{
+    position: absolute;
+    margin-left: 140px;
+   
+    width: 380px;
+height: 500px;
+
+    
+}
+
+.pic2{
+    margin-right: 140px;
+    width: 380px;
+height: 500px;
+
+
+
+    
+}
+.up{
+    justify-content: center;
+    align-items: center;
+}
+
+.H3{
+
+    color: #314D4A;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+}
+.p2{
+
+    color: #646D6C;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+text-decoration: solid;
+
+
+
+}
+.maindiv2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.H4{
+    color: #314D4A;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+}
+.img1{
+    text-align: center;
+}
+
+.p3{
+    color: #646D6C;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+.img2{
+    text-align: center;
+
+}
+.H5{
+    color: #314D4A;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+}
+.p4{
+    color: #646D6C;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+.img3{
+    text-align: center;
+}
+.H6{
+    color: #314D4A;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+}
+.p5{
+    color: #646D6C;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.H7{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+}
+.p6{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+/* margin-top: -50px; */
+}
+.up1{
+    margin-top: 50px;
+    margin: 20px;
+}
+
+.sc1{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+
+   
+}
+.H8{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+}
+.p7{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.H9{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+}
+.p8{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+.sc2{
+   display: flex;
+   justify-content: space-around;
+    margin: 20px;
+
+}
+.son6{
+    margin-top: -180px;
+    margin-left: 300px;
+}
+
+.H10{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+}
+.p9{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+.H11{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+}
+.p10{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+
+.god{
+    width: 100%;
+    height: 280px;
+    background-color: #0A8270;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.human{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.H12{
+    color: #FFF;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+
+}
+
+.p11{
+    color: #DDEAE8;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: -50px;
+}
+
+.H13{
+    color: #FFF;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+}
+.p12{
+    color: #DDEAE8;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: -50px;
+}
+
+.H14{
+    color: #FFF;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+}
+
+.p13{
+    color: #DDEAE8;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: -50px;
+}
+
+.H15{
+    color: #FFF;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+}
+.p14{
+    color: #DDEAE8;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: -50px;
+}
+
+.H16{
+    color: #314D4A;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+
+}
+
+.p15{
+    color: #646D6C;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+margin-top: -20px;
+}
+.pop{
+   margin-top: 200px;
+}
+
+.top{
+    width: 370px;
+height: 280px;
+border-radius: 10px;
+background: #f8c7c7;
+margin: 20px;
+box-shadow: rgb(197, 192, 192);
+}
+.F1{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+margin-top: -40PX;
+}
+.T1{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+margin-top: -30px;
+    
+}
+.uu{
+    color: #0A8270;
+font-family: "DM Sans";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.T2{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 14px;
+font-style: italic;
+font-weight: 400;
+}
+.bro{
+    display: flex;
+    justify-content: space-around;
+}
+
+.m1{
+    color: #0A8270;
+
+text-align: center;
+font-family: "DM Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+
+}
+
+.maindiv4{
+
+    justify-content: right;
+    align-items: center;
+    text-align: right;
+
+
+
+}
+.top3{
+    
+    text-align: right;
+    margin: 20px;
+}
+
+.m2{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+}
+
+.t3{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.top4{
+    width: 470px;
+height: 220px;
+background: #314D4A;
+text-align:center;
+justify-content: right;
+align-items: right;
+background-position: right;
+}
+.m4{
+    color: white;
+    text-align: center;
+    
+}
+.m5{
+    color: white;
+    /* margin: bottom; */
+}
+
+.top5{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    width: 100%px;
+    height: 280px;
+    background-color: #F6F3EB;
+
+
+}
+
+.n1{
+    color: #314D4A;
+
+font-family: "DM Sans";
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+}
+.n2{
+    color: #646D6C;
+
+font-family: "DM Sans";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+}
